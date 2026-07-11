@@ -1,6 +1,6 @@
-# 🎙️ Aura: Assistente de Voz com IA (Llama 3)
+# 🎙️ Assistente de Voz com IA (Llama 3)
 
-Aura é um projeto de assistente virtual desenvolvido em Python. Ela utiliza reconhecimento de voz para captar comandos, processa a inteligência através da API da Groq (Llama 3.1) e responde por voz, além de executar automações no Windows.
+É um projeto de assistente virtual desenvolvido em Python. Ela utiliza reconhecimento de voz para captar comandos, processa a inteligência através da API da Groq (Llama 3.1) e responde por voz, além de executar automações no Windows.
 
 ## 🚀 Funcionalidades
 - **Respostas Inteligentes:** Integração com o modelo Llama-3.1 via Groq Cloud.
